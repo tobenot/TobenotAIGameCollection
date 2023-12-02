@@ -1,4 +1,5 @@
 # TobenotAIGameCollection
+2023.12.2更新优化版，可用其他API免费玩
 2023.11.12更新
 AIPersuadeGame
 说服NPC小游戏
