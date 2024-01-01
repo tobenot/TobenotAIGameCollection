@@ -1,5 +1,9 @@
 # TobenotAIGameCollection
 
+2024.1.1 更新说服小游戏v4，解压即可玩
+放release了
+https://github.com/tobenot/TobenotAIGameCollection/releases/tag/Persuade
+
 2023.12.2更新优化版，可用其他API免费玩
 
 2023.11.12更新
